@@ -22,7 +22,7 @@
 ### 起動方法
 1. リポジトリをクローン
 ```bash
-git clone [リポジトリURL]
+git clone https://github.com/Rintaras/LabLib
 cd LabLib
 ```
 
